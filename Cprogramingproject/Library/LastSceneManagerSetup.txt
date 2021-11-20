@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/Home.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SongSelect.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/NoteEditor.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Play.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/PlayResult.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
